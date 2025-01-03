@@ -1,6 +1,6 @@
 <?php
 
-namespace dpex\collection;
+namespace yii2mod\collection;
 
 use ArrayAccess;
 use ArrayIterator;
